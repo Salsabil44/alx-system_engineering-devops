@@ -1,3 +1,4 @@
+#!/usr/bin/pup
 #Install Werkzeug version 2.1.1
 package { 'Werkzeug':
 ensure => '2.1.1',
